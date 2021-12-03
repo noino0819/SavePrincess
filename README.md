@@ -1,2 +1,7 @@
-# SavePrincess
-RPGMakerMZ game SavePrincess
+# 구해줘 공주!
+[메타버스 게임기획] RPGMakerMZ를 확용한 게임 제작
+
+안녕하세요 팀 구해줘 마왕! 입니다✋
+저희는 게임 기획 실력을 향상시키기 위해 RPGMakerMZ툴을 활용하여 게임 젲가을 해보았습니다!
+
+재밌게 플레이해주세요!
