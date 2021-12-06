@@ -19,5 +19,9 @@ null,
 {"id":17,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":18,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":19,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
-{"id":20,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
+{"id":20,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":21,"flags":[16],"mode":1,"name":"overPout","note":"","tilesetNames":["Inside_A2","Outside_A5","Inside_A4","SF_Outside_A4","Outside_A5","SF_Inside_A4","Inside_B","Dungeon_C",""]},
+{"id"22,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":23,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":24,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
 ]
