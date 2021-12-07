@@ -1,6 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"World_Map","order":1,"parentId":0,"scrollX":811,"scrollY":461},
+<<<<<<< HEAD
 {"id":2,"expanded":false,"name":"최시언_1","order":2,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
 {"id":3,"expanded":false,"name":"최시언_2","order":3,"parentId":1,"scrollX":884.7272727272727,"scrollY":666.5454545454546},
 {"id":4,"expanded":false,"name":"최시언_4","order":5,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
@@ -10,6 +11,17 @@ null,
 {"id":8,"expanded":true,"name":"심승환_2","order":8,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
 {"id":9,"expanded":false,"name":"심승환_3","order":9,"parentId":1,"scrollX":893.4545454545455,"scrollY":567.2727272727273},
 {"id":10,"expanded":false,"name":"심승환_4","order":10,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+=======
+{"id":2,"expanded":false,"name":"최시언_1","order":2,"parentId":1,"scrollX":811,"scrollY":499},
+{"id":3,"expanded":false,"name":"최시언_2","order":3,"parentId":1,"scrollX":819,"scrollY":467},
+{"id":4,"expanded":false,"name":"최시언_4","order":5,"parentId":1,"scrollX":811,"scrollY":461},
+{"id":5,"expanded":false,"name":"최시언_3","order":4,"parentId":1,"scrollX":811,"scrollY":666},
+{"id":6,"expanded":true,"name":"최시언_5","order":6,"parentId":1,"scrollX":811,"scrollY":461},
+{"id":7,"expanded":true,"name":"심승환_1","order":7,"parentId":1,"scrollX":811,"scrollY":461},
+{"id":8,"expanded":true,"name":"심승환_2","order":8,"parentId":1,"scrollX":811,"scrollY":461},
+{"id":9,"expanded":false,"name":"심승환_3","order":9,"parentId":1,"scrollX":811,"scrollY":567},
+{"id":10,"expanded":false,"name":"심승환_4","order":10,"parentId":1,"scrollX":811,"scrollY":461},
+>>>>>>> e2379cc3a4a1ce320211dc32e50d5922f80f43e3
 {"id":11,"expanded":false,"name":"심승환_5","order":11,"parentId":1,"scrollX":811,"scrollY":461},
 {"id":12,"expanded":true,"name":"최영재_1","order":12,"parentId":1,"scrollX":811,"scrollY":461},
 {"id":13,"expanded":false,"name":"최영재_2","order":13,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
