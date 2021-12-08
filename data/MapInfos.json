@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"World_Map","order":1,"parentId":0,"scrollX":811,"scrollY":461},
 {"id":2,"expanded":false,"name":"최시언_1","order":2,"parentId":1,"scrollX":811,"scrollY":499},
 {"id":3,"expanded":false,"name":"최시언_2","order":3,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
@@ -24,6 +25,8 @@ null,
 {"id":22,"expanded":false,"name":"김대훈_1","order":22,"parentId":1,"scrollX":893.4545454545455,"scrollY":823.6363636363636},
 {"id":23,"expanded":false,"name":"김대훈_2","order":23,"parentId":1,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
 {"id":24,"expanded":false,"name":"김대훈_3","order":24,"parentId":1,"scrollX":0,"scrollY":0},
+=======
+>>>>>>> 345065bcae11c39e906bab42ef73a60753b35701
 {"id":25,"expanded":false,"name":"김대훈_4","order":25,"parentId":1,"scrollX":0,"scrollY":0},
 {"id":26,"expanded":false,"name":"김대훈_5","order":26,"parentId":1,"scrollX":505.5,"scrollY":391.5}
 ]
